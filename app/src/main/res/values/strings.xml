@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AudioTrack</string>
+    <string name="action_settings">Settings</string>
+    <string name="toy_name">Pet Singer</string>
+    <string name="toy_address">00:58:56:71:62:1B</string>
+
+</resources>
